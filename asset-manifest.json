@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avatar-gallery/static/css/main.e93b4bd1.chunk.css",
+    "main.js": "/avatar-gallery/static/js/main.88c1aaeb.chunk.js",
+    "main.js.map": "/avatar-gallery/static/js/main.88c1aaeb.chunk.js.map",
+    "runtime-main.js": "/avatar-gallery/static/js/runtime-main.20d5f63a.js",
+    "runtime-main.js.map": "/avatar-gallery/static/js/runtime-main.20d5f63a.js.map",
+    "static/css/2.036b41f9.chunk.css": "/avatar-gallery/static/css/2.036b41f9.chunk.css",
+    "static/js/2.16fb2874.chunk.js": "/avatar-gallery/static/js/2.16fb2874.chunk.js",
+    "static/js/2.16fb2874.chunk.js.map": "/avatar-gallery/static/js/2.16fb2874.chunk.js.map",
+    "index.html": "/avatar-gallery/index.html",
+    "precache-manifest.51955e72c66bf8c03620eafc8e8fe910.js": "/avatar-gallery/precache-manifest.51955e72c66bf8c03620eafc8e8fe910.js",
+    "service-worker.js": "/avatar-gallery/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/avatar-gallery/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.e93b4bd1.chunk.css.map": "/avatar-gallery/static/css/main.e93b4bd1.chunk.css.map",
+    "static/js/2.16fb2874.chunk.js.LICENSE.txt": "/avatar-gallery/static/js/2.16fb2874.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20d5f63a.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.16fb2874.chunk.js",
+    "static/css/main.e93b4bd1.chunk.css",
+    "static/js/main.88c1aaeb.chunk.js"
+  ]
+}
